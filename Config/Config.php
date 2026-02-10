@@ -1,8 +1,8 @@
 <?php
-const base_url = "http://biblioteca.local.enriquenielor.ieslossauces.es";
+const base_url = "http://biblioteca.enriquenielor.ieslossauces.es/";
 const host = "localhost";
-const user = "root";
-const pass = "";
-const db = "biblioteca";
+const user = "userENLBDBiblioteca";
+const pass = "672qJ&btbWrKmtd%";
+const db = "DBENLBiblioteca";
 const charset = "charset=utf8";
 ?>
