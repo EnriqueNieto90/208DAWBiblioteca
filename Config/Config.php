@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost/biblio/";
+const base_url = "http://biblioteca.local.enriquenielor.ieslossauces.es";
 const host = "localhost";
 const user = "root";
 const pass = "";
